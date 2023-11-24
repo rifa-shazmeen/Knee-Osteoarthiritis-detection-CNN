@@ -83,3 +83,7 @@ for loading and preprocessing the data, training the model on that data, and gen
 
 ![image](https://github.com/tanishkagarhwal/Osteoarthirits-detection-using-knee-x-ray/assets/113787863/5eb4f381-4e2e-404a-8933-c91cc9015218)
 
+Interface 
+<img width="977" alt="image" src="https://github.com/rifa-shazmeen/Knee-Osteoarthiritis-detection-CNN/assets/107351827/2f71132d-a7b2-418b-bf13-fc0a5c738a66">
+
+
